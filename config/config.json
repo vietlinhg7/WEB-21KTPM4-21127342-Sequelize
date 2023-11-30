@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "tuan8db_cbro_user",
-    "password": "okVY6Pry0DW4zTdJN8yWAg9PO6Vi0N5z",
-    "database": "tuan8db_cbro",
-    "host": "dpg-clhijk6f27hc739r4vv0-a.singapore-postgres.render.com",
+    "username": "db_npok_user",
+    "password": "m1SdYI3oi7BWDASPDdlWQWgw3mZ4j7G5",
+    "database": "db_npok",
+    "host": "dpg-clk7jll8td7s73dcp880-a.singapore-postgres.render.com",
     "dialect": "postgres",
     "dialectOptions": {
       "ssl": {
@@ -13,10 +13,10 @@
     }
   },
   "test": {
-    "username": "tuan8db_cbro_user",
-    "password": "okVY6Pry0DW4zTdJN8yWAg9PO6Vi0N5z",
-    "database": "tuan8db_cbro",
-    "host": "dpg-clhijk6f27hc739r4vv0-a.singapore-postgres.render.com",
+    "username": "db_npok_user",
+    "password": "m1SdYI3oi7BWDASPDdlWQWgw3mZ4j7G5",
+    "database": "db_npok",
+    "host": "dpg-clk7jll8td7s73dcp880-a.singapore-postgres.render.com",
     "dialect": "postgres",
     "dialectOptions": {
       "ssl": {
@@ -26,10 +26,10 @@
     }
   },
   "production": {
-    "username": "tuan8db_cbro_user",
-    "password": "okVY6Pry0DW4zTdJN8yWAg9PO6Vi0N5z",
-    "database": "tuan8db_cbro",
-    "host": "dpg-clhijk6f27hc739r4vv0-a.singapore-postgres.render.com",
+    "username": "db_npok_user",
+    "password": "m1SdYI3oi7BWDASPDdlWQWgw3mZ4j7G5",
+    "database": "db_npok",
+    "host": "dpg-clk7jll8td7s73dcp880-a.singapore-postgres.render.com",
     "dialect": "postgres",
     "dialectOptions": {
       "ssl": {
